@@ -1,0 +1,47 @@
+@charset "UTF-8";
+body{
+    font-family:Helvetica;
+    font-size: small;
+    
+ }
+ header > h1{
+    font-size: 400%;
+    border:solid black 3px;
+    border-radius: 5px;
+    font-family: sans-serif;
+    text-align: center;
+    padding: 15px;
+}
+header > h1{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+nav{
+    border: solid black;
+    padding-bottom: 10px;
+    border-radius: 5px;
+    text-align: center;
+}
+main{
+    border: solid black;
+    margin-top: 15px;
+    
+}
+h1, h2{
+    text-align: center;
+}
+ p{
+    text-align: justify;
+    padding: 15px;
+}
+img{
+    margin: center;
+    width: 400px;
+    border-radius: 5px;
+    
+}
+footer{
+    margin-top: 10px;
+    text-align: center;
+    background-color: black;
+    color: white;
+}
